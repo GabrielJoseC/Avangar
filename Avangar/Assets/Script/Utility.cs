@@ -4,7 +4,7 @@ using UnityEngine;
 
 public static class Utility
 {
-
+//seed aleatoria  de obstaculos
     public static T[] ShuffleArray<T>(T[] array, int seed)
     {
         System.Random prng = new System.Random(seed);
