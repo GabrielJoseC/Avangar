@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 504eb368e40285840a084d7b983b3659
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: "bone_anteBra\xE7o_L"
+    100004: "bone_anteBra\xE7o_R"
+    100006: "bone_cabe\xE7a"
+    100008: "bone_cabe\xE7a_end"
+    100010: bone_mao_L
+    100012: bone_mao_L_end
+    100014: bone_mao_R
+    100016: bone_mao_R_end
+    100018: bone_ombro_L
+    100020: bone_ombro_R
+    100022: bone_pe_L
+    100024: bone_pe_L_end
+    100026: bone_pernaInf_L
+    100028: bone_pernaInf_R
+    100030: bone_pernaSup_L
+    100032: bone_pernaSup_R
+    100034: "bone_p\xE9_R"
+    100036: "bone_p\xE9_R_end"
+    100038: bone_quadril
+    100040: bone_torax
+    100042: //RootNode
+    100044: player otimizado
+    100046: player otimizado.001
+    100048: player otimizado.002
+    100050: player otimizado.003
+    100052: player otimizado.004
+    100054: player otimizado.005
+    100056: player otimizado.006
+    100058: player otimizado.007
+    100060: player otimizado.008
+    100062: player otimizado.009
+    100064: player otimizado.010
+    100066: player otimizado.011
+    100068: player otimizado.012
+    100070: player otimizado.013
+    100072: player otimizado.014
+    400000: Armature
+    400002: "bone_anteBra\xE7o_L"
+    400004: "bone_anteBra\xE7o_R"
+    400006: "bone_cabe\xE7a"
+    400008: "bone_cabe\xE7a_end"
+    400010: bone_mao_L
+    400012: bone_mao_L_end
+    400014: bone_mao_R
+    400016: bone_mao_R_end
+    400018: bone_ombro_L
+    400020: bone_ombro_R
+    400022: bone_pe_L
+    400024: bone_pe_L_end
+    400026: bone_pernaInf_L
+    400028: bone_pernaInf_R
+    400030: bone_pernaSup_L
+    400032: bone_pernaSup_R
+    400034: "bone_p\xE9_R"
+    400036: "bone_p\xE9_R_end"
+    400038: bone_quadril
+    400040: bone_torax
+    400042: //RootNode
+    400044: player otimizado
+    400046: player otimizado.001
+    400048: player otimizado.002
+    400050: player otimizado.003
+    400052: player otimizado.004
+    400054: player otimizado.005
+    400056: player otimizado.006
+    400058: player otimizado.007
+    400060: player otimizado.008
+    400062: player otimizado.009
+    400064: player otimizado.010
+    400066: player otimizado.011
+    400068: player otimizado.012
+    400070: player otimizado.013
+    400072: player otimizado.014
+    2100000: palette
+    4300000: player otimizado.014
+    4300002: player otimizado.013
+    4300004: player otimizado.012
+    4300006: player otimizado.011
+    4300008: player otimizado.010
+    4300010: player otimizado.009
+    4300012: player otimizado.008
+    4300014: player otimizado.007
+    4300016: player otimizado.006
+    4300018: player otimizado.005
+    4300020: player otimizado.004
+    4300022: player otimizado.003
+    4300024: player otimizado.002
+    4300026: player otimizado.001
+    4300028: player otimizado
+    9500000: //RootNode
+    13700000: player otimizado
+    13700002: player otimizado.001
+    13700004: player otimizado.002
+    13700006: player otimizado.003
+    13700008: player otimizado.004
+    13700010: player otimizado.005
+    13700012: player otimizado.006
+    13700014: player otimizado.007
+    13700016: player otimizado.008
+    13700018: player otimizado.009
+    13700020: player otimizado.010
+    13700022: player otimizado.011
+    13700024: player otimizado.012
+    13700026: player otimizado.013
+    13700028: player otimizado.014
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette
+    second: {fileID: 2100000, guid: d8ee3cc006a426240a78f66eff6696ca, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: bone_quadril
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_pernaSup_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_pernaSup_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_pernaInf_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_pernaInf_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_pe_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "bone_p\xE9_R"
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_torax
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_ombro_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_ombro_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "bone_anteBra\xE7o_L"
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "bone_anteBra\xE7o_R"
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "bone_cabe\xE7a"
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_mao_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_mao_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Player(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: Player(Clone)
+      position: {x: -0, y: 1, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bone_quadril
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071067, y: -0.00000008429368, z: -0.00000008429368, w: 0.7071068}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: bone_torax
+      parentName: bone_quadril
+      position: {x: -0, y: 0.003992522, z: 0}
+      rotation: {x: -3.5527137e-15, y: 0.000000119209275, z: -4.235165e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bone_cabe\xE7a"
+      parentName: bone_torax
+      position: {x: -0, y: 0.005007479, z: 0}
+      rotation: {x: -3.5527137e-15, y: -7.105428e-15, z: -4.2351657e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bone_cabe\xE7a_end"
+      parentName: "bone_cabe\xE7a"
+      position: {x: -0, y: 0.009962585, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_ombro_L
+      parentName: bone_torax
+      position: {x: -0.005522766, y: 0.004001767, z: -0.00050001894}
+      rotation: {x: 0.50000024, y: -0.49999976, z: 0.4999999, w: 0.5000001}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bone_anteBra\xE7o_L"
+      parentName: bone_ombro_L
+      position: {x: -6.255831e-11, y: 0.0025680952, z: -4.794424e-10}
+      rotation: {x: -0.000000116048355, y: -0.00000040559746, z: -0.000000003235085,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: bone_mao_L
+      parentName: "bone_anteBra\xE7o_L"
+      position: {x: -8.057526e-11, y: 0.002446835, z: -0.0000000011761989}
+      rotation: {x: 6.2099822e-15, y: 0.00000035762784, z: 0.000000002748095, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_mao_L_end
+      parentName: bone_mao_L
+      position: {x: -0, y: 0.004814929, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_ombro_R
+      parentName: bone_torax
+      position: {x: 0.0054728887, y: 0.004005302, z: -0.00050001894}
+      rotation: {x: -0.5, y: -0.49999997, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: "bone_anteBra\xE7o_R"
+      parentName: bone_ombro_R
+      position: {x: -6.796078e-11, y: 0.002568096, z: 0.0000000012082768}
+      rotation: {x: 6.1840266e-15, y: -0.000000043421522, z: -0.000000003235023, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_mao_R
+      parentName: "bone_anteBra\xE7o_R"
+      position: {x: -5.8730194e-11, y: 0.002446835, z: 0.0000000012516999}
+      rotation: {x: 3.2759918e-16, y: -3.552713e-15, z: 0.000000002748088, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_mao_R_end
+      parentName: bone_mao_R
+      position: {x: -0, y: 0.004814929, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pernaSup_R
+      parentName: bone_quadril
+      position: {x: 0.0020000287, y: 0.001999998, z: -0.000000016197571}
+      rotation: {x: 0.7071069, y: -0.000000030908616, z: 0.70710665, w: 0.000000030908627}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pernaInf_R
+      parentName: bone_pernaSup_R
+      position: {x: -2.2559732e-15, y: 0.005, z: 1.490123e-10}
+      rotation: {x: 3.088299e-22, y: -0.70710677, z: 3.0882988e-22, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bone_p\xE9_R"
+      parentName: bone_pernaInf_R
+      position: {x: 1.4901111e-10, y: 0.006, z: 2.5135449e-15}
+      rotation: {x: 0.000000064623286, y: 0.7071068, z: -0.7071067, w: -0.000000042146866}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bone_p\xE9_R_end"
+      parentName: "bone_p\xE9_R"
+      position: {x: -0, y: 0.0039999997, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pernaSup_L
+      parentName: bone_quadril
+      position: {x: -0.0019999712, y: 0.001999998, z: -0.000000015243899}
+      rotation: {x: 0.7071069, y: -0.000000030908616, z: 0.70710665, w: 0.000000030908627}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pernaInf_L
+      parentName: bone_pernaSup_L
+      position: {x: -2.051692e-15, y: 0.005, z: -1.4901093e-10}
+      rotation: {x: 3.088299e-22, y: -0.70710677, z: 3.0882988e-22, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pe_L
+      parentName: bone_pernaInf_L
+      position: {x: -1.4901211e-10, y: 0.006, z: 2.7267077e-15}
+      rotation: {x: 0.000000064623286, y: 0.7071068, z: -0.7071067, w: -0.000000042146866}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pe_L_end
+      parentName: bone_pe_L
+      position: {x: -0, y: 0.0039999997, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: player otimizado
+      parentName: Player(Clone)
+      position: {x: 0.0000018377133, y: 1.6670445, z: -0.0011371194}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.001
+      parentName: Player(Clone)
+      position: {x: 0.0000018571538, y: 2.3967104, z: 0.048682798}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.002
+      parentName: Player(Clone)
+      position: {x: 0.54750633, y: 1.7999995, z: -0.05000188}
+      rotation: {x: 0.00000001545431, y: 0.00000001545431, z: 0.7071067, w: 0.7071068}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.003
+      parentName: Player(Clone)
+      position: {x: 0.5475061, y: 1.7999995, z: -0.050001882}
+      rotation: {x: 0.00000001545431, y: 0.00000001545431, z: 0.7071067, w: 0.7071068}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.004
+      parentName: Player(Clone)
+      position: {x: -0.55249405, y: 1.7999995, z: -0.050001882}
+      rotation: {x: 0.00000001545431, y: -0.00000001545431, z: -0.7071067, w: 0.7071068}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.005
+      parentName: Player(Clone)
+      position: {x: -0.55249393, y: 1.7999995, z: -0.050001882}
+      rotation: {x: 0.00000001545431, y: -0.00000001545431, z: -0.7071067, w: 0.7071068}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.006
+      parentName: Player(Clone)
+      position: {x: 0.0000018970023, y: 1.2299993, z: -0.010000796}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.007
+      parentName: Player(Clone)
+      position: {x: 0.20000283, y: 0.0999974, z: 0.09999746}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.008
+      parentName: Player(Clone)
+      position: {x: -0.19999908, y: 0.0999974, z: 0.09999747}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.009
+      parentName: Player(Clone)
+      position: {x: -0.19999912, y: 0.9374983, z: 0.06874849}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.010
+      parentName: Player(Clone)
+      position: {x: 0.20000283, y: 0.9374982, z: 0.068748504}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.011
+      parentName: Player(Clone)
+      position: {x: 0.20000283, y: 0.49999785, z: -0.0000015571713}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.012
+      parentName: Player(Clone)
+      position: {x: -0.1999991, y: 0.49999785, z: -0.0000015571713}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.013
+      parentName: Player(Clone)
+      position: {x: -0.55249393, y: 1.7999995, z: -0.050001882}
+      rotation: {x: 0.00000001545431, y: -0.00000001545431, z: -0.7071067, w: 0.7071068}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: player otimizado.014
+      parentName: Player(Clone)
+      position: {x: 0.5475061, y: 1.7999995, z: -0.050001893}
+      rotation: {x: 0.00000001545431, y: 0.00000001545431, z: 0.7071067, w: 0.7071068}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

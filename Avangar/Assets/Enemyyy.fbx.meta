@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: dac68e0eeb1bb974abf3fe7d87e0a9a8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: "bone_antebra\xE7o_L"
+    100004: "bone_antebra\xE7o_R"
+    100006: "bone_bra\xE7o_L"
+    100008: "bone_bra\xE7o_R"
+    100010: "bone_cabe\xE7a"
+    100012: "bone_cabe\xE7a_end"
+    100014: bone_cintura
+    100016: bone_mao_L
+    100018: bone_mao_L_end
+    100020: bone_mao_R
+    100022: bone_mao_R_end
+    100024: bone_pe_L
+    100026: bone_pe_L_end
+    100028: bone_pe_R
+    100030: bone_pe_R_end
+    100032: bone_pernaInf_L
+    100034: bone_pernaInf_R
+    100036: bone_pernaSup_L
+    100038: bone_pernaSup_R
+    100040: bone_torax
+    100042: //RootNode
+    100044: modelo enemy.001
+    100046: modelo enemy.002
+    100048: modelo enemy.003
+    100050: modelo enemy.004
+    100052: modelo enemy.005
+    100054: modelo enemy.006
+    100056: modelo enemy.007
+    100058: modelo enemy.008
+    100060: modelo enemy.009
+    100062: modelo enemy.010
+    100064: modelo enemy.011
+    100066: modelo enemy.012
+    100068: modelo enemy.013
+    100070: modelo enemy.014
+    100072: modelo enemy.015
+    400000: Armature
+    400002: "bone_antebra\xE7o_L"
+    400004: "bone_antebra\xE7o_R"
+    400006: "bone_bra\xE7o_L"
+    400008: "bone_bra\xE7o_R"
+    400010: "bone_cabe\xE7a"
+    400012: "bone_cabe\xE7a_end"
+    400014: bone_cintura
+    400016: bone_mao_L
+    400018: bone_mao_L_end
+    400020: bone_mao_R
+    400022: bone_mao_R_end
+    400024: bone_pe_L
+    400026: bone_pe_L_end
+    400028: bone_pe_R
+    400030: bone_pe_R_end
+    400032: bone_pernaInf_L
+    400034: bone_pernaInf_R
+    400036: bone_pernaSup_L
+    400038: bone_pernaSup_R
+    400040: bone_torax
+    400042: //RootNode
+    400044: modelo enemy.001
+    400046: modelo enemy.002
+    400048: modelo enemy.003
+    400050: modelo enemy.004
+    400052: modelo enemy.005
+    400054: modelo enemy.006
+    400056: modelo enemy.007
+    400058: modelo enemy.008
+    400060: modelo enemy.009
+    400062: modelo enemy.010
+    400064: modelo enemy.011
+    400066: modelo enemy.012
+    400068: modelo enemy.013
+    400070: modelo enemy.014
+    400072: modelo enemy.015
+    2100000: palette
+    4300000: modelo enemy.015
+    4300002: modelo enemy.014
+    4300004: modelo enemy.013
+    4300006: modelo enemy.012
+    4300008: modelo enemy.011
+    4300010: modelo enemy.010
+    4300012: modelo enemy.009
+    4300014: modelo enemy.008
+    4300016: modelo enemy.007
+    4300018: modelo enemy.006
+    4300020: modelo enemy.005
+    4300022: modelo enemy.004
+    4300024: modelo enemy.003
+    4300026: modelo enemy.002
+    4300028: modelo enemy.001
+    9500000: //RootNode
+    13700000: modelo enemy.001
+    13700002: modelo enemy.002
+    13700004: modelo enemy.003
+    13700006: modelo enemy.004
+    13700008: modelo enemy.005
+    13700010: modelo enemy.006
+    13700012: modelo enemy.007
+    13700014: modelo enemy.008
+    13700016: modelo enemy.009
+    13700018: modelo enemy.010
+    13700020: modelo enemy.011
+    13700022: modelo enemy.012
+    13700024: modelo enemy.013
+    13700026: modelo enemy.014
+    13700028: modelo enemy.015
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette
+    second: {fileID: 2100000, guid: 641c17786856595419f8a92434436ade, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: bone_cintura
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_pernaSup_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_pernaSup_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_pernaInf_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_pernaInf_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_pe_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_pe_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_torax
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "bone_bra\xE7o_R"
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "bone_cabe\xE7a"
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "bone_bra\xE7o_L"
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "bone_antebra\xE7o_L"
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_mao_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "bone_antebra\xE7o_R"
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_mao_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Enemyyy(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: Enemyyy(Clone)
+      position: {x: -0, y: 1, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bone_cintura
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pernaSup_L
+      parentName: bone_cintura
+      position: {x: -0.0019999752, y: 0.001954181, z: -0.00000001579523}
+      rotation: {x: 0.7071068, y: 0.00000003090862, z: 0.70710677, w: -0.00000003090862}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: bone_pernaInf_L
+      parentName: bone_pernaSup_L
+      position: {x: 7.9936054e-17, y: 0.005, z: 6.905587e-16}
+      rotation: {x: -0, y: -0.70710677, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pe_L
+      parentName: bone_pernaInf_L
+      position: {x: -5.0209837e-16, y: 0.0060000014, z: 3.0642155e-16}
+      rotation: {x: -0.00000004214685, y: 0.7071068, z: -0.7071067, w: 0.0000000646233}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pe_L_end
+      parentName: bone_pe_L
+      position: {x: -0, y: 0.004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pernaSup_R
+      parentName: bone_cintura
+      position: {x: 0.0020000248, y: 0.001954181, z: -0.00000001579523}
+      rotation: {x: 0.7071068, y: 0.00000003090862, z: 0.70710677, w: -0.00000003090862}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: bone_pernaInf_R
+      parentName: bone_pernaSup_R
+      position: {x: -1.7763567e-16, y: 0.005, z: 6.905587e-16}
+      rotation: {x: -0, y: -0.70710677, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pe_R
+      parentName: bone_pernaInf_R
+      position: {x: -5.0209837e-16, y: 0.0060000014, z: 1.3766766e-16}
+      rotation: {x: -0.00000004214685, y: 0.7071068, z: -0.7071067, w: 0.0000000646233}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pe_R_end
+      parentName: bone_pe_R
+      position: {x: -0, y: 0.004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_torax
+      parentName: bone_cintura
+      position: {x: -0, y: 0.004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bone_bra\xE7o_L"
+      parentName: bone_torax
+      position: {x: -0.0054939417, y: 0.0039274516, z: -0.00050082506}
+      rotation: {x: 0.7071067, y: -0.0000002219725, z: -0.00000022197243, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bone_antebra\xE7o_L"
+      parentName: "bone_bra\xE7o_L"
+      position: {x: -2.0874408e-10, y: 0.002505608, z: -2.4613975e-10}
+      rotation: {x: 0.00000023651675, y: 0.0000011920929, z: 1.3345694e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_mao_L
+      parentName: "bone_antebra\xE7o_L"
+      position: {x: 2.1433567e-10, y: 0.0025347655, z: 1.2067857e-11}
+      rotation: {x: -0.000000057016564, y: -0.00000055233505, z: -6.864898e-14, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: bone_mao_L_end
+      parentName: bone_mao_L
+      position: {x: -0, y: 0.0049213096, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bone_bra\xE7o_R"
+      parentName: bone_torax
+      position: {x: 0.005481335, y: 0.0038727643, z: -0.00049284374}
+      rotation: {x: -0.00000005338508, y: 0.7071068, z: 0.7071067, w: -0.000000053385072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bone_antebra\xE7o_R"
+      parentName: "bone_bra\xE7o_R"
+      position: {x: -9.221246e-11, y: 0.002505608, z: 1.1685294e-10}
+      rotation: {x: 0, y: -0.00000004371139, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_mao_R
+      parentName: "bone_antebra\xE7o_R"
+      position: {x: -0, y: 0.0025347655, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_mao_R_end
+      parentName: bone_mao_R
+      position: {x: -0, y: 0.0049213096, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bone_cabe\xE7a"
+      parentName: bone_torax
+      position: {x: -0, y: 0.0049999994, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bone_cabe\xE7a_end"
+      parentName: "bone_cabe\xE7a"
+      position: {x: -0, y: 0.009, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: modelo enemy.001
+      parentName: Enemyyy(Clone)
+      position: {x: 0.0000018137218, y: 1.6697907, z: 0.0052059963}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.002
+      parentName: Enemyyy(Clone)
+      position: {x: 0.000001806791, y: 2.2752519, z: 0.047978457}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.003
+      parentName: Enemyyy(Clone)
+      position: {x: 0.55000186, y: 1.794602, z: -0.05000158}
+      rotation: {x: -0.49554056, y: -0.49554056, z: 0.50442, w: 0.50442004}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.004
+      parentName: Enemyyy(Clone)
+      position: {x: 0.55000186, y: 1.7946022, z: -0.0500017}
+      rotation: {x: -0.49554056, y: -0.49554056, z: 0.50442, w: 0.50442004}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.005
+      parentName: Enemyyy(Clone)
+      position: {x: -0.5499982, y: 1.7946022, z: -0.05000171}
+      rotation: {x: -0.50000006, y: 0.4999999, z: -0.49999997, w: 0.50000006}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.006
+      parentName: Enemyyy(Clone)
+      position: {x: -0.5499982, y: 1.7946022, z: -0.05000171}
+      rotation: {x: -0.50000006, y: 0.4999999, z: -0.49999997, w: 0.50000006}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.007
+      parentName: Enemyyy(Clone)
+      position: {x: 0.0000018103951, y: 1.2299993, z: -0.010002438}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.008
+      parentName: Enemyyy(Clone)
+      position: {x: 0.2000024, y: 0.099997334, z: 0.099999264}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.009
+      parentName: Enemyyy(Clone)
+      position: {x: -0.19999878, y: 0.099997334, z: 0.099999264}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.010
+      parentName: Enemyyy(Clone)
+      position: {x: -0.19999881, y: 0.9374989, z: 0.06874853}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.011
+      parentName: Enemyyy(Clone)
+      position: {x: 0.20000249, y: 0.9374989, z: 0.06874852}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.012
+      parentName: Enemyyy(Clone)
+      position: {x: -0.19999881, y: 0.49999893, z: -0.0000030845404}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.013
+      parentName: Enemyyy(Clone)
+      position: {x: 0.2000024, y: 0.4999988, z: -0.0000030845404}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.014
+      parentName: Enemyyy(Clone)
+      position: {x: -0.5499982, y: 1.7946022, z: -0.050001472}
+      rotation: {x: -0.50000006, y: 0.4999999, z: -0.49999997, w: 0.50000006}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: modelo enemy.015
+      parentName: Enemyyy(Clone)
+      position: {x: 0.55000186, y: 1.7946022, z: -0.0500017}
+      rotation: {x: -0.49554056, y: -0.49554056, z: 0.50442, w: 0.50442004}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

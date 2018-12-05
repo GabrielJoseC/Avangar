@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 7a3f5f7731b7c374eb477870e3c741e8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: "bone_antebra\xE7o_L"
+    100004: "bone_antebra\xE7o_R"
+    100006: "bone_bra\xE7o_L"
+    100008: "bone_bra\xE7o_R"
+    100010: "bone_cabe\xE7a"
+    100012: "bone_cabe\xE7a_end"
+    100014: bone_cintura
+    100016: bone_mao_L
+    100018: bone_mao_L_end
+    100020: bone_mao_R
+    100022: bone_mao_R_end
+    100024: bone_pe_L
+    100026: bone_pe_L_end
+    100028: bone_pe_R
+    100030: bone_pe_R_end
+    100032: bone_pernaInf_L
+    100034: bone_pernaInf_R
+    100036: bone_pernaSup_L
+    100038: bone_pernaSup_R
+    100040: bone_torax
+    100042: //RootNode
+    100044: modelo enemy.001
+    100046: modelo enemy.002
+    100048: modelo enemy.003
+    100050: modelo enemy.004
+    100052: modelo enemy.005
+    100054: modelo enemy.006
+    100056: modelo enemy.007
+    100058: modelo enemy.008
+    100060: modelo enemy.009
+    100062: modelo enemy.010
+    100064: modelo enemy.011
+    100066: modelo enemy.012
+    100068: modelo enemy.013
+    100070: modelo enemy.014
+    100072: modelo enemy.015
+    400000: Armature
+    400002: "bone_antebra\xE7o_L"
+    400004: "bone_antebra\xE7o_R"
+    400006: "bone_bra\xE7o_L"
+    400008: "bone_bra\xE7o_R"
+    400010: "bone_cabe\xE7a"
+    400012: "bone_cabe\xE7a_end"
+    400014: bone_cintura
+    400016: bone_mao_L
+    400018: bone_mao_L_end
+    400020: bone_mao_R
+    400022: bone_mao_R_end
+    400024: bone_pe_L
+    400026: bone_pe_L_end
+    400028: bone_pe_R
+    400030: bone_pe_R_end
+    400032: bone_pernaInf_L
+    400034: bone_pernaInf_R
+    400036: bone_pernaSup_L
+    400038: bone_pernaSup_R
+    400040: bone_torax
+    400042: //RootNode
+    400044: modelo enemy.001
+    400046: modelo enemy.002
+    400048: modelo enemy.003
+    400050: modelo enemy.004
+    400052: modelo enemy.005
+    400054: modelo enemy.006
+    400056: modelo enemy.007
+    400058: modelo enemy.008
+    400060: modelo enemy.009
+    400062: modelo enemy.010
+    400064: modelo enemy.011
+    400066: modelo enemy.012
+    400068: modelo enemy.013
+    400070: modelo enemy.014
+    400072: modelo enemy.015
+    2100000: palette
+    4300000: modelo enemy.015
+    4300002: modelo enemy.014
+    4300004: modelo enemy.013
+    4300006: modelo enemy.012
+    4300008: modelo enemy.011
+    4300010: modelo enemy.010
+    4300012: modelo enemy.009
+    4300014: modelo enemy.008
+    4300016: modelo enemy.007
+    4300018: modelo enemy.006
+    4300020: modelo enemy.005
+    4300022: modelo enemy.004
+    4300024: modelo enemy.003
+    4300026: modelo enemy.002
+    4300028: modelo enemy.001
+    9500000: //RootNode
+    13700000: modelo enemy.001
+    13700002: modelo enemy.002
+    13700004: modelo enemy.003
+    13700006: modelo enemy.004
+    13700008: modelo enemy.005
+    13700010: modelo enemy.006
+    13700012: modelo enemy.007
+    13700014: modelo enemy.008
+    13700016: modelo enemy.009
+    13700018: modelo enemy.010
+    13700020: modelo enemy.011
+    13700022: modelo enemy.012
+    13700024: modelo enemy.013
+    13700026: modelo enemy.014
+    13700028: modelo enemy.015
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
