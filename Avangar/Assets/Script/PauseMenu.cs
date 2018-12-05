@@ -11,7 +11,7 @@ public class PauseMenu : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         
-
+//verifica se apertar o P entra em pausa
         if (Input.GetKeyDown(KeyCode.P))
         {
             if(GameIsPaused)
@@ -25,25 +25,27 @@ public class PauseMenu : MonoBehaviour {
         }
         
     }
-    
+    // sai do pause e volta ao jogo
     public void Resume ()
     {
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
         GameIsPaused = false; 
     }
+	//pausa o jogo
     void Pause()
     {
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
         GameIsPaused = true;
     }
-
+//vai para o menu
     public void LoadMenu()
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene("Menu");
     }
+	//fecha o jogo
     public void QuitGame()
     {
         Application.Quit();
