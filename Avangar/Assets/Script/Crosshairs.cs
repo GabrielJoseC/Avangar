@@ -19,7 +19,7 @@ public class Crosshairs : MonoBehaviour {
 	void Update () {
         transform.Rotate(Vector3.forward * 40 * Time.deltaTime);
 	}
-
+// Detecta o inimigo e faz o centro da mira trocar de cor
     public void DetectTargets(Ray ray)
     {
         if (Physics.Raycast(ray, 100, targetMask))
