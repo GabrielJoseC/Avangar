@@ -13,7 +13,7 @@ public class Muzzleflash : MonoBehaviour
     {
         Deactivate();
     }
-
+// ativa a animação do flash da arma
     public void Activate()
     {
         flashHolder.SetActive(true);
