@@ -1,12 +1,10 @@
 # Avangar
 Nome completo dos integrantes do projeto:
-Gabriel D'Alessio Ferrara Dias dos Santos
-Imagens do jogo:
-Inserir imagens do jogo.
+Gabriel Jose Carqueijeiro Ferreira Teixeira
 
 Informações de como compilar o jogo:
-para compilar o jogo use a unity 5.6.1f1
+para compilar o jogo use a unity 2018.1.8f1
+ou baixe o executavel e a pasta data que esta presente nos arquivos
 
-link IO:https://gabriel568.itch.io/escape-the-room, link gamejolt: https://gamejolt.com/games/escape-the-room/377760
+link Itch.io:https://caostic.itch.io/avangar, 
 
-OBSERVAÇÃO: NO REPOSITÓRIO DEVE EXISTIR TODOS OS ARQUIVOS DESENVOLVIDOS PARA O PROJETO, INCLUINDO ARTES, MODELOS 3D ORIGINAIS, ETC..
