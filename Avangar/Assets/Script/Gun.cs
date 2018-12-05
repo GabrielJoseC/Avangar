@@ -15,13 +15,13 @@ public class Gun : MonoBehaviour
     public int burstCount;
     public int projectilesPerMag;
     public float reloadTime = .3f;
-
+//para mudar as configs de recoil
     [Header("Recoil")]
     public Vector2 kickMinMax = new Vector2(.05f, .2f);
     public Vector2 recoilAngleMinMax = new Vector2(3, 5);
     public float recoilMoveSettleTime = .1f;
     public float recoilRotationSettleTime = .1f;
-
+//para mudar as configs de efeito
     [Header("Efeito")]
     public Transform shell;
     public Transform shellEjection;
@@ -57,7 +57,7 @@ public class Gun : MonoBehaviour
             Reload(); 
         }
     }
-
+//Tudo ligado ao tiro:recoil,quantidade de musiçao, som velocidade dos tiros
     void Shoot()
     {
     
@@ -103,6 +103,7 @@ public class Gun : MonoBehaviour
             LastUpdate();
         }
     }
+    // Metodo para criar o recoil da arma
     public void Reload()
     {
 
@@ -113,6 +114,7 @@ public class Gun : MonoBehaviour
         }
         
     }
+    //animação de recarregar
     IEnumerator AnimateReload()
     {
         isReloading = true;
@@ -145,12 +147,13 @@ public class Gun : MonoBehaviour
         }
        
     }
+    //atirar
     public void OnTriggerHold()
     {
         Shoot();
         triggerReleasedSinceLastShot = false;
     }
-
+//quantidade de tiros
     public void OnTriggerRelease()
     {
         triggerReleasedSinceLastShot = true;
