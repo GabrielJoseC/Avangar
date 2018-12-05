@@ -22,7 +22,7 @@ public class Shell : MonoBehaviour
 
         StartCoroutine(Fade()); // faz as balas sumirem
     }
-
+//faz as capsulas sumirem e serem destruidas com o tempo
 IEnumerator Fade()
     {
         yield return new WaitForSeconds(lifetime);
