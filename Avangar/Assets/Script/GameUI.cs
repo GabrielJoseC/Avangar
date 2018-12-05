@@ -30,7 +30,7 @@ public class GameUI : MonoBehaviour
         spawner = FindObjectOfType<Spawner>();
         spawner.OnNewWave += OnNewWave;
     }
-
+// faz funcionar o score e a barra de vida
     void Update()
     {
         scoreUI.text = ScoreKeeper.score.ToString("D5");
@@ -41,7 +41,7 @@ public class GameUI : MonoBehaviour
         }
         healthBar.localScale = new Vector3(healthPercent, 1, 1);
     }
-
+//gera no banner a indicaçao da wavw e os inimigos da fase
     void OnNewWave(int waveNumber)
     {
         string[] numbers = { "One", "Two", "Three", "Four", "Five" };
@@ -52,7 +52,7 @@ public class GameUI : MonoBehaviour
         StopCoroutine("AnimateNewWaveBanner");
         StartCoroutine("AnimateNewWaveBanner");
     }
-
+//tela de game over
     void OnGameOver()
     {
         Cursor.visible = true;
@@ -62,7 +62,7 @@ public class GameUI : MonoBehaviour
         healthBar.transform.parent.gameObject.SetActive(false);
         gameOverUI.SetActive(true);
     }
-
+//animação do banner que mostra a wave que esta e a quantidade de inimigos
     IEnumerator AnimateNewWaveBanner()
     {
 
@@ -91,7 +91,7 @@ public class GameUI : MonoBehaviour
         }
 
     }
-
+// Animação de fade
     IEnumerator Fade(Color from, Color to, float time)
     {
         float speed = 1 / time;
@@ -105,7 +105,7 @@ public class GameUI : MonoBehaviour
         }
     }
 
-    // UI Input
+    // Input do  UI
     public void StartNewGame()
     {
         SceneManager.LoadScene("Game");
