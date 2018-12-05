@@ -32,7 +32,7 @@ public class Menu : MonoBehaviour
         fullscreenToggle.isOn = isFullscreen;
     }
 
-
+// faz os botoes funcionarem para ir para o jogo, creditos e a aplicação fechar
     public void Play()
     {
         SceneManager.LoadScene("Game");
@@ -57,7 +57,7 @@ public class Menu : MonoBehaviour
         mainMenuHolder.SetActive(true);
         optionsMenuHolder.SetActive(false);
     }
-
+//Resolução da tela
     public void SetScreenResolution(int i)
     {
         if (resolutionToggles[i].isOn)
@@ -69,31 +69,15 @@ public class Menu : MonoBehaviour
             PlayerPrefs.Save();
         }
     }
-
+// Por em full screen
     public void SetFullscreen(bool isFullscreen)
     {
         Screen.fullScreen = true;
-        /*
-        for (int i = 0; i < resolutionToggles.Length; i++)
-        {
-            resolutionToggles[i].interactable = !isFullscreen;
-        }
-
-        if (isFullscreen)
-        {
-            Resolution[] allResolutions = Screen.resolutions;
-            Resolution maxResolution = allResolutions[allResolutions.Length - 1];
-            Screen.SetResolution(maxResolution.width, maxResolution.height, true);
-        }
-        else
-        {
-            SetScreenResolution(activeScreenResIndex);
-        }
-        */
+      
         PlayerPrefs.SetInt("fullscreen", ((isFullscreen) ? 1 : 0));
         PlayerPrefs.Save();
     }
-
+//configuraçoes dos sliders de volume
     public void SetMasterVolume(float value)
     {
         AudioManager.instance.SetVolume(value, AudioManager.AudioChannel.Master);
