@@ -25,7 +25,7 @@ public class MusicManager : MonoBehaviour
             Invoke("PlayMusic", .2f);
         }
     }
-
+// tocara a musica do menu e do tema
     void PlayMusic()
     {
         AudioClip clipToPlay = null;
