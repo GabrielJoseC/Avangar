@@ -20,7 +20,7 @@ public class Player : LivingEntity
         base.Start();
         
     }
-
+// pega os componentes fa arma do jogador e coloca a camera do jogo
     void Awake()
     {
         controller = GetComponent<PlayerController>();
@@ -37,12 +37,12 @@ public class Player : LivingEntity
 
     void Update()
     {
-        // Movement input
+        // Input de movimentação
         Vector3 moveInput = new Vector3(Input.GetAxisRaw("Horizontal"), 0, Input.GetAxisRaw("Vertical"));
         Vector3 moveVelocity = moveInput.normalized * moveSpeed;
         controller.Move(moveVelocity);
 
-        // Look input
+        // Input da visão, olha para onde o mouse esta virado
         Ray ray = viewCamera.ScreenPointToRay(Input.mousePosition);
         Plane groundPlane = new Plane(Vector3.up, Vector3.up * gunController.GunHeight);
         float rayDistance;
@@ -62,7 +62,7 @@ public class Player : LivingEntity
            
         }
 
-        // Weapon input
+        // Input das armas
         if (Input.GetMouseButton(0)) 
         {
             gunController.OnTriggerHold();
@@ -80,7 +80,7 @@ public class Player : LivingEntity
             TakeDamage(health);
         }
     }
-
+//morte do player
     public override void Die()
     {
         AudioManager.instance.PlaySound("Player Death", transform.position);
