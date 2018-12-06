@@ -30,7 +30,7 @@ public class Spawner : MonoBehaviour {
     bool isDisabled;
 
     public event System.Action<int> OnNewWave;
-
+//localiza onde esta o player e faz o inimigo spawnar a uma certa distancia
     void Start()
     {
         playerEntity = FindObjectOfType<Player>();
@@ -74,7 +74,7 @@ public class Spawner : MonoBehaviour {
 			}
 		}
     }
-
+//spawna os inimigos com delay e distancia do player
     IEnumerator SpawnEnemy()
     {
         float spawnDelay = 1;
@@ -109,7 +109,7 @@ public class Spawner : MonoBehaviour {
     {
         isDisabled = true;
     }
-
+// se os inimigos vivos chegarem a 0 vai para proxima wave
     void OnEnemyDeath()
     {
         enemiesRemainingAlive--;
@@ -124,7 +124,7 @@ public class Spawner : MonoBehaviour {
     {
         playerT.position = map.GetTileFromPosition(Vector3.zero).position + Vector3.up * 3;
     }
-
+//troca de wave, audio de troca de level
     void NextWave()
     {
         if (currentWaveNumber > 0)
@@ -147,7 +147,7 @@ public class Spawner : MonoBehaviour {
             ResetPlayerPosition();
         }
     }
-
+//cria as opções de dano,cor,quantidade vidaa e velocidade dos inimigos
     [System.Serializable]
     public class Wave
     {

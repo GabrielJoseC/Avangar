@@ -73,7 +73,7 @@ public class Enemy : LivingEntity {
 		skinMaterial.color = skinColour;
 		originalColour = skinMaterial.color;
 	}
-
+//checa o dando e audio do dano
 	public override void TakeHit (float damage, Vector3 hitPoint, Vector3 hitDirection)
 	{
 
@@ -110,7 +110,7 @@ public class Enemy : LivingEntity {
 		}
 
 	}
-
+//ataque do inimigo
 	IEnumerator Attack() {
 
 		currentState = State.Attacking;
