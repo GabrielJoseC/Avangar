@@ -9,18 +9,17 @@ public class LivingEntity : MonoBehaviour, IDamageable
     protected bool dead;
 
     public event System.Action OnDeath;
-
+//vida
     protected virtual void Start()
     {
         health = startingHealth;
     }
-
+//dano
     public virtual void TakeHit(float damage, Vector3 hitPoint, Vector3 hitDirection)
     {
-        // Do some stuff here with hit var
         TakeDamage(damage);
     }
-
+//checa o dano e ve se o personagem morre
     public virtual void TakeDamage(float damage)
     {
         health -= damage;
@@ -30,7 +29,7 @@ public class LivingEntity : MonoBehaviour, IDamageable
             Die();
         }
     }
-
+//destroy o inimigo morto
     [ContextMenu("Self Destruct")]
     public virtual void Die()
     {
